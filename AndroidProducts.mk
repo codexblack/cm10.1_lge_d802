@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/p6.mk
+    $(LOCAL_DIR)/d802.mk

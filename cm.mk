@@ -5,7 +5,7 @@ TARGET_SCREEN_WIDTH  := 1080
 # Include GSM stuff
 $(call inherit-product, vendor/cm/config/gsm.mk)
 
-DEVICE_PACKAGE_OVERLAYS += device/huawei/d802/overlay
+DEVICE_PACKAGE_OVERLAYS += device/lge/d802/overlay
 
 # Inherit some common cyanogenmod stuff.
 $(call inherit-product, vendor/cm/config/common_mini_phone.mk)
